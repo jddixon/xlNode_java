@@ -1,0 +1,95 @@
+-----BEGIN RSA PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoM2sBgX0ChP2JriXkOxS
+e2FjHYVzBGkNvgf0vIAa7FFYZi2pWmxBAVXgl3tTiB3quqqud/MbKqdejM6gkKBK
+v8f7hlcBQLD6BLIZ/RRfhIElc+WlDVfKSnBTB4va5qTQAgvuq5i8+oMj7G8WEy5d
+7cYucWyUJMtHvT4pCDtBWeeqQ62tByWjv34Ud/+A9Mjf0leiWxM3tiToVsqIKb4s
+zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
+H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
+GQIDAQAB
+-----END RSA PUBLIC KEY-----
+xlNode_java v0.2.5
+2016-05-27 22:37:17
+# START CONTENT #
+xlNode_java
+ .dvcz
+  projCfg f8ef835334c8da058efd61f0cce8327e806dc26e
+  projCfg.local 3aba45671ecfa91d599941c1adf5e70aa6ba871a
+  version 8611cd85707f480101c2d74e654d626f5e037b83
+ .gitignore 08f778735870db520dd02965adb5708b3d623b16
+ .gitignore.local a2985f0462ed4376d269dd44b45ad0e5229eca2c
+ CHANGES d1f7b3ce9a61a953d34ebda2ef327ed22204eaab
+ LICENSE.html 4d0038a843d3f3e0553fca7df2c17ad053916e5d
+ LICENSE.md 50a6fc1b15e967d1dc37ba7559cf121a66240830
+ README.md 9e225e1cd86f1843e63a16143e6e84efd52b67a3
+ TODO 4d66d5e509605ab7121f140ee885c35c32188c71
+ bin
+  node.sh 824014453d9bf166bb3a5ae311d0412c5f131729
+  tests.sh 628a8eda45d3a573e0821b98b475c2a83e10589e
+ bkp2U 10253d91407ac8d4038a1999a4a4ee8af9114459
+ build.sh 8844d742637d7668927c8c39cc2fba6e6b8736d7
+ build.xml f83328ca30de30d8b92db895d6fd6f0981d9748f
+ classpath.sh 76a2ec0287f67fe1074714657aa637f2f706576f
+ countem bfab1590e9a7aca4449f6f31201a4af20fb382fd
+ ghpDoc
+ installit b1ab21d1dfcdad9ca819517838e7138fc8803947
+ nodereg.xml 6bb6a2ab3113052ad9848ff566caf371cee43997
+ project.properties da39a3ee5e6b4b0d3255bfef95601890afd80709
+ project.xml 6530dd9ff243e1847bd4f532c20c9ca0cdc95edd
+ src
+  java
+   org
+    xlattice
+     node
+      AbstractNode.java 1a60b05487ce4719dc0db193d4ce46790779946f
+      CNode.java 5e1fbc2528fe2ca91b5c3769f5881d33f98ea216
+      CNodeCtl.java b165233d6fb90a0a2119c707f083329ee05eb5a0
+      Compost.java 03395a7828e169d4af061d96c127e702c9763f2c
+      Configurer.java a66a38b2b157ba606339bf8f0ec4e6f661965fc5
+      GUIRunner.java 83bf0b7bf3ac76d60cc4e589c47f181f643514a0
+      JNode.java b9ec7aa233104f335e2a3da88d4e09716daebc10
+      JNodeCtl.java de039d2ada1647c852ffbe34eaac319cdac83cdf
+      NattedOverlay.java 22195adc4b33651e94b09ccfba270cd04751f049
+      NodeConfig.java f32cd2c87e298b00a5e7fbe12c4862b3ba45f644
+      NodeFactory.java 704668042781f0c7ab25b6454728cef407772b99
+      NodeInfoMgr.java 1f240ee81e2176dea310561cc63b6ff568f9b248
+      OverlayConfig.java c02442a1130fcd8317d77a0ccd5aadba1cbee82c
+      Port0Handler.java 543f5cfcaa5542ab202110881fb4e0f90af76fe1
+      RSAInfo.java db0e906aaab9c59cc5b9c58ba59abf636f2062a6
+      RSAPeer.java 966a76e1b86eb5a9459d82d0dd33db2e1ea86ab5
+      Runner.java 6f6189077d4ba627b37b8d22580d324b4283443f
+      TNode.java 29f1fd4efaa55a9508a0fd699178a5e85a965e3e
+      UdpXLFuncOverlay.java 0574211205e5395776352998664c9d33d70fa054
+      Version.java 03d46b7b921ab164e9a11c258e149e631c84bdb6
+      nodereg
+       Client.java 46d807c1e677492124a8f6f37818f5b077658dd2
+       MsgParser.java 1f8f45da925dd766b7ce8e35ecfb3d67a4ccb6db
+       NodeRegSListener.java e0617bcd55890c5e7329feea57c5cdc920b78721
+       NodeRegSListenerFactory.java 6e5a6109dc0d1cc9895a12cf155f2f1eaadd1f0d
+       Server.java 33656457ec1ced3c0bbcf370010fece45a1cadee
+       ServerConfig.java 6dce61a8caaa7eb4f0d48ac5abbdec1979ac449b
+  test
+   org
+    xlattice
+     node
+      TestCompost.java 75553b71de4b52cf0a7c35a78ea6b596a5249288
+      TestConfigurer.java 075deb76bc2b11bdeae215e5443454247ea97818
+      TestNodeInfoMgr.java bd18928e57d0049d7a1a6750cc2e464b75ebacdb
+      TestRSAInfo.java 9414f330c7fc12d59e089e6fcb51fa4c5b697a41
+      TestTNode.java 93d4531d6e97bc2ed2d481aa9bb89c8740603c1e
+      TestTNodeMob.java b91c21b2890204fa9d8609226eac9b0650e695cd
+      nodereg
+       TestClient.java 7a915603b3563dbcc32f9dc68c3611431eb1a98d
+       TestMsgParser.java 103e110d8d8e8a60b4b8766ab461a78bdfa499fd
+       TestServer.java a546de659a957a8220c473e5e38aa366eed86d65
+ styleit c66902aac90b43c7937c83e212c0a6872e1e423b
+ test.all f29319032925bd6cc6be0c641f0499d109c7b7a0
+ test.node.info
+  aaa.xml 5a7a43b01ad3468f595644da9cfe8557870332ab
+  bbb.xml 7534a5f0ee04f438854100b82a55f3bbe98cf366
+  ccc.xml 02f02874b5f0d6e94d84f89c64dfb9322898732c
+  ddd.xml 8115cd919b8deb81be26065bec14649e58b0766e
+ xdocs
+ xlattice.xml 13f1730604e4990485f57027715719c303fc0b5b
+# END CONTENT #
+
+YdvpeeEan3X5l4qtaH3HC0CmYYsbqrGBltm0TXJvrEXOr+Kn6gsfxSmJp6YjY3kCl6dXZUNmfSbqp03qYY7Qm4vlCY3rwCuy9kHA4eBLSHt6uSK3npcV/RIRfZu/7LmO6q0B4nylVFwOgQwYsBAkAkWi34LM288H/ViEnbrCw/8weyAAJFxhMPArXzPP4sNG0Yj1c6OzeRfabItSOD5gO3QRgFGGEOLtaCwuZAm1pWHzdU4/9vtYEVazw0sK0WgjwnZMLQw43uthpC1dZCYheI+xBpmkdKJGbByvORgm6ez4Ye5doGfMwTi0SrB5F4j3MhnxeFxbntSK4IyJ4x/TkQ==

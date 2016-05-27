@@ -4,8 +4,14 @@ if [ ! -z "${DEV_BASE// }" ]
 then
   cd $DEV_BASE/java/xlNode_java
   
+  blListGen \
+    -d ../xlNode_java \
+    -1L  \
+    -u $DVCZ_UDIR \
+    -X compost.heap \
+    -X .ssh \
+    $@
   
-  pySloc -L java  -X target -v $@
 else
   echo "DEV_BASE is not defined"
 fi
