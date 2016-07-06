@@ -1,5 +1,12 @@
 ~/dev/java/xlattice_j/node/TODO
 
+2016-05-27
+    * files in bin/ should be bash:local
+    * need to be properly wrapped
+        - need a script for that
+    * xdocs/ directory is entirely HTML so it should be simple to 
+        push it to gh-pages
+
 2013-12-29 (2013-06-12)
     * FIX: javadoc issues many warnings (17 or so)
 
