@@ -7,29 +7,29 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-xlNode_java v0.2.6
-2016-07-06 15:36:00
-# START CONTENT #
+xlNode_java v0.2.7
+2016-08-14 22:23:36
+# BEGIN CONTENT #
 xlNode_java
  .dvcz
-  builds 9d077c089932867b1fe878bf768f657f053e64b7
-  lastBuildList 35e7d17e9e9dc170767965225d83f349c87e9645
+  builds 0aba84f31b6162c53c39dfc10888b57a29ab239e
+  lastBuildList ecee1fcdc1090e68e7bb1d7b9b00bd3a0612047c
   projCfg bad569294d7ea935fe0bf2708f52ba050c5a1583
   projCfg.local 3aba45671ecfa91d599941c1adf5e70aa6ba871a
-  version c3a890c86e47323db8ba1b6e0510259d921dc3a0
+  version 3fba6a0f60aa5281505f4da83c569903c7dea777
  .gitignore 11dcc74e373dc9e571e63e84282f7d59b8c56544
  .gitignore.local a2985f0462ed4376d269dd44b45ad0e5229eca2c
- CHANGES 290da35aca62f05d24bbf94e83ddff88816ef671
+ CHANGES 789d991e207ea1280a739759da0cfa1f52f1602d
  LICENSE.html 4d0038a843d3f3e0553fca7df2c17ad053916e5d
  LICENSE.md 50a6fc1b15e967d1dc37ba7559cf121a66240830
- README.md ac1b080866e7393e8cdd16e6453ef427fb058a7b
+ README.md 0de37b2c9a490e7812b5f8c0faff49c4a2c4596f
  TODO 4a0f1adcf699530a58fcc16dfdd186d9984dac4b
  bin
   node.sh 824014453d9bf166bb3a5ae311d0412c5f131729
   tests.sh 628a8eda45d3a573e0821b98b475c2a83e10589e
  bkp2U 10253d91407ac8d4038a1999a4a4ee8af9114459
  build.sh 8844d742637d7668927c8c39cc2fba6e6b8736d7
- build.xml c723fd323cc02fd385d409fba5e6e83a7914f829
+ build.xml 8858a26247ec2979c1e8689c23b9a0f9e393a5e3
  classpath.sh 76a2ec0287f67fe1074714657aa637f2f706576f
  countem bfab1590e9a7aca4449f6f31201a4af20fb382fd
  ghpDoc
@@ -46,9 +46,9 @@ xlNode_java
    simple-cluster.jpg 6b223ddd25937c1ef75ef328f36fc3436f10bd62
    xl-registration.jpg 15cbf951f9db173a45428b32dcec87aca83bbdf0
    xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
-  index.md 26d42d6a61389198ad3a867ce325f44356e38647
+  index.md 0f686a5dfb6204400b63dde9f7e457a2f6ae7063
  installit b1ab21d1dfcdad9ca819517838e7138fc8803947
- nodereg.xml 15bdb49700d46e0eba12ef55f7294a42b78bd8d7
+ nodereg.xml 5f24d3c6924f89963199cc3dd334353175c52e72
  project.properties da39a3ee5e6b4b0d3255bfef95601890afd80709
  project.xml 6530dd9ff243e1847bd4f532c20c9ca0cdc95edd
  src
@@ -75,7 +75,7 @@ xlNode_java
       Runner.java 6f6189077d4ba627b37b8d22580d324b4283443f
       TNode.java 29f1fd4efaa55a9508a0fd699178a5e85a965e3e
       UdpXLFuncOverlay.java 0574211205e5395776352998664c9d33d70fa054
-      Version.java 8cf27b3f685a61add0b6e756169ce440154498d4
+      Version.java 1093b24348ee67a902f40a9b16a4ed559d14fc7e
       nodereg
        Client.java 46d807c1e677492124a8f6f37818f5b077658dd2
        MsgParser.java 1f8f45da925dd766b7ce8e35ecfb3d67a4ccb6db
@@ -100,12 +100,12 @@ xlNode_java
  styleit c66902aac90b43c7937c83e212c0a6872e1e423b
  test.all f29319032925bd6cc6be0c641f0499d109c7b7a0
  test.node.info
-  aaa.xml 698a182c3c9ae07f493da4e255b36acc5e12e5a6
-  bbb.xml 56bdbe82a793f68a8cdf3002f6be5adffd46441f
-  ccc.xml a3ab65e6745d98a02e1fbe51a31e16848c99e3fe
-  ddd.xml 38b1b546d6a26bbe474d2e6ecb3becf143b73b82
+  aaa.xml e1983039f494c0455e7742bd4fc50aae92556c73
+  bbb.xml bcd17abf326388eb9e20e7d2e56b85bde1f5a17b
+  ccc.xml 33e1dfa29d3ec72cdf7986e6c41c6070c8214450
+  ddd.xml 54eaafb705eda546f8f925369e91583843ac7bf8
  xdocs
  xlattice.xml 13f1730604e4990485f57027715719c303fc0b5b
 # END CONTENT #
 
-gCEkZHTTaqKaVxFtmm2Z1C88EfuC4wb7fXD/WMnRvGUURYam/QBvJQEAlYOCntERe/erHCWMLHPE3GEwSFUpmmhsSYMPPt4eTmvu+M7EI6stqZ5Vle8DG7lvRaWYqmQf8aUUwEMKD076mCkvJ8JWs2ik0p/tKZ2y3hhERn2J+my9DpwF0i6fFEimd1AY/QqNf/lSEkoEODELhFcmb8/o7L59/DrN6rRZm9nQOinzoGS2GbLehNzTGvVwSa+EEBR1cg4RXxpHw+Id3MXKiPq39o0SWeQ56tn8LYqtfpfbQXWwvURzL7zUMI9ZHLhVYjswog6yK34uKlt/JosVP8WTcg==
+h8PD0Nl5wdpr8GjGUtgsh58V8q66sQ4QvKFfeAIxM09oMAncAlkDx27JP92bmCWTxJL+59Ma3pt8JZg23j5D14iCUxF7GG7AgYkdNnAHJIEFMAvJiVLQPzJzCgHq0EMR0apDkGglJrCmEaRf6KTpuHOIIWs5ZhV1fpq4qilFJvQfY0bBxMoy1EQlDHiq2ZB4NZNwjFVFqyzooSEA6Dz/zTyJKzOZfJ76RBlvlkgWV7OAllcNx4XoyFjLxBNGWrawZ9SFCDHqz6qOm8GbPBnYo/cGDAkh/dd4kPLrgLbbDRo9ZS2ChF088OxfgKMF+ZfKsDU4qvHfeE40fIiWAwCt3Q==
