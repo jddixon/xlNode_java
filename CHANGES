@@ -1,5 +1,8 @@
 // ~/dev/java/xlattice_j/node/CHANGES
 
+v0.2.7
+    2016-08-14
+        * elaborated docs                                           SLOC 4154
 v0.2.6
     2016-07-06
         * add ghpDoc/{css,img}                                      SLOC 4130
@@ -24,6 +27,7 @@ v0.2.0                                                              SLOC 2841
     2011-08-21 
         * stepped version number for move to Stockton svn
         * dropped build.sh, classpath.sh, added CHANGES
+
 
 
 
