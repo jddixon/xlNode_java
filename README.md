@@ -14,12 +14,13 @@ This is the 2006
 implementation adapted to make its unit tests succeed under Java 8.
 The code is stable and all unit tests pass.
 
-While the Java code is stable in its current form, it is not
+While the Java code is stable in its current form, it is not yet
 interoperable with the
 [Go](https://jddixon.github.io/xlNode_go)
 and
 [Python3](https://jddixon.github.io/xlattice)
 implementations of the code.
+
 
 ## On-line Documentation
 

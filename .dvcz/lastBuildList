@@ -7,31 +7,32 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-xlNode_java v0.2.7
-2016-08-14 22:23:36
+xlNode_java v0.2.8
+2016-09-28 18:42:58
 # BEGIN CONTENT #
 xlNode_java
  .dvcz
-  builds 0aba84f31b6162c53c39dfc10888b57a29ab239e
-  lastBuildList ecee1fcdc1090e68e7bb1d7b9b00bd3a0612047c
-  projCfg bad569294d7ea935fe0bf2708f52ba050c5a1583
-  projCfg.local 3aba45671ecfa91d599941c1adf5e70aa6ba871a
-  version 3fba6a0f60aa5281505f4da83c569903c7dea777
+  builds 9935988318096bfc8f95be9ab466f7c6b4462e4f
+  copyright fdc6cab0fd7077cddba743c357a0e48e7179c181
+  lastBuildList d60c57a304456b85ed4aae4698ccf6e7ef254f0f
+  license 31158001bd41a34771e96dad11a089f4863dea28
+  projCfg 977612253e4d19181112c347ceef074ff6da9838
+  projCfg.local d2d796fc50fe85599e7449dae5b137ec5a59c0eb
+  version 0c07a0c6b21f1b43f62b9a0c185c28c12b790d9d
  .gitignore 11dcc74e373dc9e571e63e84282f7d59b8c56544
  .gitignore.local a2985f0462ed4376d269dd44b45ad0e5229eca2c
- CHANGES 789d991e207ea1280a739759da0cfa1f52f1602d
- LICENSE.html 4d0038a843d3f3e0553fca7df2c17ad053916e5d
- LICENSE.md 50a6fc1b15e967d1dc37ba7559cf121a66240830
- README.md 0de37b2c9a490e7812b5f8c0faff49c4a2c4596f
- TODO 4a0f1adcf699530a58fcc16dfdd186d9984dac4b
+ CHANGES 7e9724133f650656a0e03595cfe62afcfd9fc9f0
+ LICENSE-XLATTICE.md bee3a87aa2ec7180859e80c7d7e6167a9c60a26a
+ README.md fc34091c2e01ed44cbcfd9a73e21e64842ac2a7e
+ TODO 31d33cd8b38c24d167989623d057aba2307ac69e
  bin
   node.sh 824014453d9bf166bb3a5ae311d0412c5f131729
   tests.sh 628a8eda45d3a573e0821b98b475c2a83e10589e
  bkp2U 10253d91407ac8d4038a1999a4a4ee8af9114459
  build.sh 8844d742637d7668927c8c39cc2fba6e6b8736d7
- build.xml 8858a26247ec2979c1e8689c23b9a0f9e393a5e3
+ build.xml 23703031833c237559ed0db162bff3161214cf17
  classpath.sh 76a2ec0287f67fe1074714657aa637f2f706576f
- countem bfab1590e9a7aca4449f6f31201a4af20fb382fd
+ countem 8c754ae84dc9d9f7e6d87c80c044d08b9beab643
  ghpDoc
   css
    LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
@@ -46,9 +47,9 @@ xlNode_java
    simple-cluster.jpg 6b223ddd25937c1ef75ef328f36fc3436f10bd62
    xl-registration.jpg 15cbf951f9db173a45428b32dcec87aca83bbdf0
    xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
-  index.md 0f686a5dfb6204400b63dde9f7e457a2f6ae7063
+  index.md 71c64b888fd6bfc03d4e9eace530a33636748bbb
  installit b1ab21d1dfcdad9ca819517838e7138fc8803947
- nodereg.xml 5f24d3c6924f89963199cc3dd334353175c52e72
+ nodereg.xml 17aa862b4e4f3b297c13b7832db41a0851082f88
  project.properties da39a3ee5e6b4b0d3255bfef95601890afd80709
  project.xml 6530dd9ff243e1847bd4f532c20c9ca0cdc95edd
  src
@@ -75,7 +76,7 @@ xlNode_java
       Runner.java 6f6189077d4ba627b37b8d22580d324b4283443f
       TNode.java 29f1fd4efaa55a9508a0fd699178a5e85a965e3e
       UdpXLFuncOverlay.java 0574211205e5395776352998664c9d33d70fa054
-      Version.java 1093b24348ee67a902f40a9b16a4ed559d14fc7e
+      Version.java 94830d536c1fbe07cecab611911826fb1d6e41b4
       nodereg
        Client.java 46d807c1e677492124a8f6f37818f5b077658dd2
        MsgParser.java 1f8f45da925dd766b7ce8e35ecfb3d67a4ccb6db
@@ -100,12 +101,12 @@ xlNode_java
  styleit c66902aac90b43c7937c83e212c0a6872e1e423b
  test.all f29319032925bd6cc6be0c641f0499d109c7b7a0
  test.node.info
-  aaa.xml e1983039f494c0455e7742bd4fc50aae92556c73
-  bbb.xml bcd17abf326388eb9e20e7d2e56b85bde1f5a17b
-  ccc.xml 33e1dfa29d3ec72cdf7986e6c41c6070c8214450
-  ddd.xml 54eaafb705eda546f8f925369e91583843ac7bf8
+  aaa.xml 91037ca4978fe4c43d64d41d64e4718ba6855acf
+  bbb.xml 69b9fb6df47bff4443cd7ccbd13b4c7578d8626b
+  ccc.xml 413c06688a2f59150dbb37b509e450bb60b5152f
+  ddd.xml ebe4cc3977ac145eba3ac7b4969fed3350c7eda0
  xdocs
  xlattice.xml 13f1730604e4990485f57027715719c303fc0b5b
 # END CONTENT #
 
-h8PD0Nl5wdpr8GjGUtgsh58V8q66sQ4QvKFfeAIxM09oMAncAlkDx27JP92bmCWTxJL+59Ma3pt8JZg23j5D14iCUxF7GG7AgYkdNnAHJIEFMAvJiVLQPzJzCgHq0EMR0apDkGglJrCmEaRf6KTpuHOIIWs5ZhV1fpq4qilFJvQfY0bBxMoy1EQlDHiq2ZB4NZNwjFVFqyzooSEA6Dz/zTyJKzOZfJ76RBlvlkgWV7OAllcNx4XoyFjLxBNGWrawZ9SFCDHqz6qOm8GbPBnYo/cGDAkh/dd4kPLrgLbbDRo9ZS2ChF088OxfgKMF+ZfKsDU4qvHfeE40fIiWAwCt3Q==
+b55AhynisNATk3CwQS7phJYAVSXU/NPK6REDXuXJkFw2F6MHz+/CNjQLGjhzqJf/79HOj7jeMgMu3rccjxVIBuCUma5Xc1eUaOvi/wbhO449Z6yPoAyr6vhZfGTrazdRLj7WxZocbO7hV+N9D9JzhNsfQArSl+Ipk5pcLmK31h5FbYRa6dkia/YWfHn0EgVjcyDzk03YFn0cWOlVf8Mx2sC1EhDr4GXw2PzXCx66gtbBg9bxHofoXJcC7ZO2PGENsuOW9qU1H6ksqltQpepwOF0WARt90HPrkTc0eK7RTQVzcP2RAZ1CJeU5e7JDfpy/03QNdJOoJ0+F8BukS699ng==

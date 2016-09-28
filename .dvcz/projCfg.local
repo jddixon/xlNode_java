@@ -1,5 +1,7 @@
 # xlNode_java/.dvcz/projCfg.local
 
+txt:std:LICENSE-XLATTICE.md
+
 xml:local:nodereg.xml
 xml:local:xlattice.xml
 
