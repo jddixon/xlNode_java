@@ -1,5 +1,7 @@
 ~/dev/java/xlattice_j/node/TODO
 
+2016-08-14
+    * typos have been fixed in README.md but not yet committed
 2016-05-27
     * files in bin/ should be bash:local
     * need to be properly wrapped
@@ -11,5 +13,5 @@
     * FIX: javadoc issues many warnings (17 or so)
 
 2011-08-22 
-    * Only two tests actually being run.  Many errors.  This is a 
-        work in progress.
+    * Only two tests actually being run.  Many errors.  This is a       * FIXED
+        work in progress.                                               * FIXED
